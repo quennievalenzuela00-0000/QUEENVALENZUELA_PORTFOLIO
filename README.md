@@ -53,7 +53,7 @@ Status
 
 🛠️ Tech Stack
 
-Copy code
+
 🔥 Streamlit (Python Web Framework)
 🎨 Custom CSS (Glassmorphism + Gradients)
 📱 Responsive Design (Mobile-First)
@@ -63,20 +63,20 @@ Copy code
 1. Clone & Install
 bash
 
-Copy code
+
 git clone https://github.com/yourusername/queens-portfolio.git
 cd queens-portfolio
 pip install -r requirements.txt
 2. Run the App
 bash
 
-Copy code
+
 streamlit run Home.py
 Opens at: http://localhost:8501
 
 3. Updated Project Structure
 
-Copy code
+
 queens-portfolio/
 ├── Home.py                    # 🚀 Main landing page
 ├── pages/
